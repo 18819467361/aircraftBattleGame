@@ -26,3 +26,4 @@ Bullet.prototype=new Element();
      context.drawImage(this.icon,this.x,this.y,this.width,this.height);
      return this;
  };
+ /////
